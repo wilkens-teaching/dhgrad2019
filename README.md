@@ -95,9 +95,9 @@ Detailed assignments will be provided separately.
 
 * Read
   * Allison et al.
-  * Heuser and Le-Khac.
   * Grimmer and Stewart.
   * Michel et al.
+  * Healy.
 * Techincal
   * Guttag, chapters 6-7.
 
