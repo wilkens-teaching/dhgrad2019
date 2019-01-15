@@ -94,19 +94,20 @@ Detailed assignments will be provided separately.
 **Week 4 (2/5): Basics** 
 
 * Read
-  * Allison et al.
-  * Grimmer and Stewart.
-  * Michel et al.
-  * Healy.
+  * Allison, Sarah, Ryan Heuser, Matthew Jockers, Franco Moretti, and Michael Witmore. ["Quanitative Formalism."](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
+  * Grimmer, Justin and Brandon M. Stewart["Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts"](https://www.cambridge.org/core/journals/political-analysis/article/text-as-data-the-promise-and-pitfalls-of-automatic-content-analysis-methods-for-political-texts/F7AAC8B2909441603FEB25C156448F20).
+  * Michel, Jean-Baptiste et al. ["Quantitative Analysis of Culture Using Millions of Digitized Books"](http://science.sciencemag.org/content/331/6014/176).
+  * Healy, Kieran. ["Fuck Nuance](https://journals.sagepub.com/doi/10.1177/0735275117709046#).
 * Techincal
   * Guttag, chapters 6-7.
 
 **Week 5 (2/12): Social networks** 
 
 * Read
-  * Elson et al.
-  * So and Long.
-  * Weingart and Otis.
+  * DeWitt, Anne. ["Advances in the Visualization of Data:
+The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/article/585966).
+  * So, Richard Jean and Hoyt Long. ["Network Analysis and the Sociology of Modernism"](https://read.dukeupress.edu/boundary-2/article-standard/40/2/147/6462/Network-Analysis-and-the-Sociology-of-Modernism).
+  * Weingart, Scott and Jessica Otis. ["Gender Inclusivity in Six Degrees"](http://6dfb.tumblr.com/post/136678327006/gender-inclusivity-in-six-degrees).
 * Technical
   * Guttag, chapters 8 and 10 (chapter 9, on algorithmic complexity, is recommended but optional).
   * Due: String manipulation exercise.
@@ -114,8 +115,8 @@ Detailed assignments will be provided separately.
 **Week 6 (2/19): Gender**
 
 * Read
-  * Underwood, Bamman, and Lee.
-  * Tatlock et al.
+  * Underwood, Ted, David Bamman, and Sabrina Lee. ["The Transformation of Gender in English-Language Fiction"](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction).
+  * Tatlock, Lynne et al. ["Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902"](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/).
 * Technical
   * Guttag, chapters 11 and 14.
   * Due: Parsing XML and JSON exercise.
@@ -124,17 +125,17 @@ Detailed assignments will be provided separately.
 
 * Prof. Jason Ruiz class visit.
 * Read
-  * Evans and Wilkens
-  * Heuser et al.
+  * Evans, Elizabeth and Matthew Wilkens. ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/).
+  * Heuser, Ryan, Franco Moretti, and Erik Steiner. ["The Emotions of London"](https://litlab.stanford.edu/LiteraryLabPamphlet13.pdf).
 * Technical
   * Due: Visualization exercise.
 
 **Week 8 (3/5): Topics**
 
 * Read
-  * Goldstone and Underwood.
-  * Jockers and Mimno.
-  * _Signs_@40
+  * Goldstone, Andrew and Ted Underwood. ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://muse.jhu.edu/article/558875).
+  * Jockers, Matthew and David Mimno. ["Significant themes in 19th-century literature"](https://www.sciencedirect.com/science/article/pii/S0304422X13000673).
+  * [_Signs_@40](http://signsat40.signsjournal.org/topic-model/).
 * Technical
   * Guttag, chapters 15 and 17.
   * Due: Entity recognition exercise.
@@ -144,31 +145,32 @@ Detailed assignments will be provided separately.
 **Week 10 (3/19): Markets**
 
 * Read
-  * Sapiro
-  * Wilkens
-  * So and Sinykin
+  * Sapiro, Gisèle. ["Translation and Symbolic Capital in the Era of Globalization: French Literature in the United States"](https://journals.sagepub.com/doi/full/10.1177/1749975515584080).
+  * Wilkens, Matthew. "The Perpetual Fifities of American Fiction." (link to come)
 * Technical
   * Guttag, chapter 19
 
 **Week 11 (3/26):**
 
 * Read
+  * So, Richard Jean, Hoyt Long, and Yuancheng Zhu. ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/).
+  * Flex slot for student-selected readings.
 * Technical
   * Guttag, chapters 20-21.
 
 **Week 12 (4/2): Unsupervised learning**
 
 * Read
-  * Bamman et al.
-  * Mauch et al.	
-  * Wilkens
+  * Bamman, David, Ted Underwood, and Noah Smith. ["A Bayesian Mixed Effects Model of Literary Character"](http://acl2014.org/acl2014/P14-1/pdf/P14-1035.pdf).
+  * Mauch, Matthias et al. ["The evolution of popular music: USA 1960–2010"](http://rsos.royalsocietypublishing.org/content/2/5/150081).
+  * Wilkens, Matthew. ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction"](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/).
 * Technical
   * Guttag, chapters 22-23.
 
 **Week 13 (4/9): Supervised learning**
 
 * Read
-  * Underwood.
+  * Underwood, Ted. ["The Life Cycles of Genres"](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/).
 * Technical
   * Guttag, chapter 24.
   * Due: Clustering exercise.
