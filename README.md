@@ -94,10 +94,10 @@ Detailed assignments will be provided separately.
 **Week 4 (2/5): Basics** 
 
 * Read
-  * Allison, Sarah, Ryan Heuser, Matthew Jockers, Franco Moretti, and Michael Witmore. ["Quanitative Formalism."](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
-  * Grimmer, Justin and Brandon M. Stewart["Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts"](https://www.cambridge.org/core/journals/political-analysis/article/text-as-data-the-promise-and-pitfalls-of-automatic-content-analysis-methods-for-political-texts/F7AAC8B2909441603FEB25C156448F20).
+  * Allison, Sarah, Ryan Heuser, Matthew Jockers, Franco Moretti, and Michael Witmore. ["Quanitative Formalism"](https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
+  * Grimmer, Justin and Brandon M. Stewart. ["Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts"](https://www.cambridge.org/core/journals/political-analysis/article/text-as-data-the-promise-and-pitfalls-of-automatic-content-analysis-methods-for-political-texts/F7AAC8B2909441603FEB25C156448F20).
   * Michel, Jean-Baptiste et al. ["Quantitative Analysis of Culture Using Millions of Digitized Books"](http://science.sciencemag.org/content/331/6014/176).
-  * Healy, Kieran. ["Fuck Nuance](https://journals.sagepub.com/doi/10.1177/0735275117709046#).
+  * Healy, Kieran. ["Fuck Nuance"](https://journals.sagepub.com/doi/10.1177/0735275117709046#).
 * Techincal
   * Guttag, chapters 6-7.
 
