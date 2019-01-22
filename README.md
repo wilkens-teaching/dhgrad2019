@@ -89,7 +89,7 @@ Detailed assignments will be provided separately.
   * Piper, Andrew. _Enumerations_.
 * Technical
   * Guttag, chapters 4-5.
-  * "Finger exercises" from Guttag, chapters 2-3. Note that the finger exercise on p. 27, which asks you to find the roots of an arbitrary integer by exhaustive enumeration, is poorly constructed in a way that produces a trivial answer (because `x**1 = x`). To avoid this issue, search for roots between 2 and 5 (that is, `1 < pwr < 6`).
+  * ["Finger exercises" from Guttag, chapters 2-3](https://github.com/wilkens-teaching/dhgrad2019/tree/master/exercises/ps1). Note that the finger exercise on p. 27, which asks you to find the roots of an arbitrary integer by exhaustive enumeration, is poorly constructed in a way that produces a trivial answer (because `x**1 = x`). To avoid this issue, search for roots between 2 and 5 (that is, `1 < pwr < 6`).
  
 **Week 4 (2/5): Basics** 
 
