@@ -110,10 +110,15 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
   * Weingart, Scott and Jessica Otis. ["Gender Inclusivity in Six Degrees"](http://6dfb.tumblr.com/post/136678327006/gender-inclusivity-in-six-degrees).
 * Technical
   * Guttag, chapters 8 and 10 (chapter 9, on algorithmic complexity, is recommended but optional).
-  * Due: String manipulation exercise.
+  * Due: [String manipulation exercise](https://github.com/wilkens-teaching/dhgrad2019/tree/master/exercises/ps2).
 
 **Week 6 (2/19): Gender**
 
+No class meeting (instructor travel).
+
+**Week 7 (2/26): Gender**
+
+* Prof. Jason Ruiz class visit.
 * Read
   * Underwood, Ted, David Bamman, and Sabrina Lee. ["The Transformation of Gender in English-Language Fiction"](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction).
   * Tatlock, Lynne et al. ["Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902"](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/).
@@ -121,16 +126,17 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
   * Guttag, chapters 11 and 14.
   * Due: Parsing XML and JSON exercise.
 
-**Week 7 (2/26): Geography**
+**Week 8 (3/5): Geography**
 
-* Prof. Jason Ruiz class visit.
 * Read
   * Evans, Elizabeth and Matthew Wilkens. ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/).
   * Heuser, Ryan, Franco Moretti, and Erik Steiner. ["The Emotions of London"](https://litlab.stanford.edu/LiteraryLabPamphlet13.pdf).
 * Technical
   * Due: Visualization exercise.
 
-**Week 8 (3/5): Topics**
+**Week 9. Spring break.** No class meetings.
+
+**Week 10 (3/19): Topics**
 
 * Read
   * Goldstone, Andrew and Ted Underwood. ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://muse.jhu.edu/article/558875).
@@ -140,9 +146,7 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
   * Guttag, chapters 15 and 17.
   * Due: Entity recognition exercise.
 
-**Week 9. Spring break.** No class meetings.
-
-**Week 10 (3/19): Markets**
+**Week 11 (3/26): Markets**
 
 * Read
   * Sapiro, Gisèle. ["Translation and Symbolic Capital in the Era of Globalization: French Literature in the United States"](https://journals.sagepub.com/doi/full/10.1177/1749975515584080).
@@ -150,7 +154,7 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
 * Technical
   * Guttag, chapter 19
 
-**Week 11 (3/26):**
+**Week 12 (4/2):**
 
 * Read
   * So, Richard Jean, Hoyt Long, and Yuancheng Zhu. ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/).
@@ -158,7 +162,7 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
 * Technical
   * Guttag, chapters 20-21.
 
-**Week 12 (4/2): Unsupervised learning**
+**Week 13 (4/9): Unsupervised learning**
 
 * Read
   * Bamman, David, Ted Underwood, and Noah Smith. ["A Bayesian Mixed Effects Model of Literary Character"](http://acl2014.org/acl2014/P14-1/pdf/P14-1035.pdf).
@@ -167,7 +171,7 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
 * Technical
   * Guttag, chapters 22-23.
 
-**Week 13 (4/9): Supervised learning**
+**Week 14 (4/16): Supervised learning**
 
 * Read
   * Underwood, Ted. ["The Life Cycles of Genres"](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/).
@@ -175,15 +179,12 @@ The Network of Genre in the Victorian Periodical Press"](https://muse.jhu.edu/ar
   * Guttag, chapter 24.
   * Due: Clustering exercise.
 
-**Week 14 (4/16): TBD**
+**Week 15 (4/23): TBD**
 
 * Readings to be determined by class interests and field developments.
+* Project work.
 * Technical
   * Due: Classification exercise.
-
-**Week 15 (4/23)**
-
-* Project work.
 
 **Week 16 (4/30)**
 
