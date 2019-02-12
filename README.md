@@ -124,7 +124,7 @@ No class meeting (instructor travel).
   * Tatlock, Lynne et al. ["Crossing Over: Gendered Reading Formations at the Muncie Public Library, 1891-1902"](http://culturalanalytics.org/2018/03/crossing-over-gendered-reading-formations-at-the-muncie-public-library-1891-1902/).
 * Technical
   * Guttag, chapters 11 and 14.
-  * Due: Parsing XML and JSON exercise.
+  * Due: [Parsing XML and JSON exercise](https://github.com/wilkens-teaching/dhgrad2019/tree/master/exercises/ps3).
 
 **Week 8 (3/5): Geography**
 
