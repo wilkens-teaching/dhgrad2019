@@ -131,8 +131,6 @@ No class meeting (instructor travel).
 * Read
   * Evans, Elizabeth and Matthew Wilkens. ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940"](http://culturalanalytics.org/2018/07/nation-ethnicity-and-the-geography-of-british-fiction-1880-1940/).
   * Heuser, Ryan, Franco Moretti, and Erik Steiner. ["The Emotions of London"](https://litlab.stanford.edu/LiteraryLabPamphlet13.pdf).
-* Technical
-  * Due: Visualization exercise.
 
 **Week 9. Spring break.** No class meetings.
 
@@ -144,14 +142,14 @@ No class meeting (instructor travel).
   * [_Signs_@40](http://signsat40.signsjournal.org/topic-model/).
 * Technical
   * Guttag, chapters 15 and 17.
-  * Due: Entity recognition exercise.
-
+ 
 **Week 11 (3/26): Markets**
 
 * Read
   * Sapiro, Gisèle. ["Translation and Symbolic Capital in the Era of Globalization: French Literature in the United States"](https://journals.sagepub.com/doi/full/10.1177/1749975515584080).
   * Wilkens, Matthew. "The Perpetual Fifities of American Fiction." (link to come)
 * Technical
+  * Due: Visualization exercise.
   * Guttag, chapter 19
 
 **Week 12 (4/2):**
@@ -161,6 +159,7 @@ No class meeting (instructor travel).
   * Flex slot for student-selected readings.
 * Technical
   * Guttag, chapters 20-21.
+  * Due: Entity recognition exercise.
 
 **Week 13 (4/9): Unsupervised learning**
 
