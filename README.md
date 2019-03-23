@@ -143,32 +143,20 @@ No class meeting (instructor travel).
 * Technical
   * Guttag, chapters 15 and 17.
  
-**Week 11 (3/26): Markets**
+**Weeks 11-12 (3/26-4/2): No class meetings (student and instructor travel)**
+
+No classes these two weeks to accommodate scheduling conflicts. Read Guttag chapters 19-21 (all on statistics) and see next week's assignments, which are heavier than usual.
+
+
+**Week 13 (4/9): Markets, unsupervised learning**
 
 * Read
   * Sapiro, Gisèle. ["Translation and Symbolic Capital in the Era of Globalization: French Literature in the United States"](https://journals.sagepub.com/doi/full/10.1177/1749975515584080).
-  * Wilkens, Matthew. "The Perpetual Fifities of American Fiction." (link to come)
-* Technical
-  * Due: Visualization exercise.
-  * Guttag, chapter 19
-
-**Week 12 (4/2):**
-
-* Read
-  * So, Richard Jean, Hoyt Long, and Yuancheng Zhu. ["Race, Writing, and Computation: Racial Difference and the US Novel, 1880-2000"](http://culturalanalytics.org/2019/01/race-writing-and-computation-racial-difference-and-the-us-novel-1880-2000/).
-  * Flex slot for student-selected readings.
-* Technical
-  * Guttag, chapters 20-21.
-  * Due: Entity recognition exercise.
-
-**Week 13 (4/9): Unsupervised learning**
-
-* Read
   * Bamman, David, Ted Underwood, and Noah Smith. ["A Bayesian Mixed Effects Model of Literary Character"](http://acl2014.org/acl2014/P14-1/pdf/P14-1035.pdf).
-  * Mauch, Matthias et al. ["The evolution of popular music: USA 1960–2010"](http://rsos.royalsocietypublishing.org/content/2/5/150081).
   * Wilkens, Matthew. ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction"](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/).
 * Technical
   * Guttag, chapters 22-23.
+  * Due: Entity recognition exercise.
 
 **Week 14 (4/16): Supervised learning**
 
