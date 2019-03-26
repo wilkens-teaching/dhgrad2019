@@ -156,7 +156,7 @@ No classes these two weeks to accommodate scheduling conflicts. Read Guttag chap
   * Wilkens, Matthew. ["Genre, Computation, and the Varieties of Twentieth-Century U.S. Fiction"](http://culturalanalytics.org/2016/11/genre-computation-and-the-varieties-of-twentieth-century-u-s-fiction/).
 * Technical
   * Guttag, chapters 22-23.
-  * Due: Entity recognition exercise.
+  * Due: [Entity recognition exercise](https://github.com/wilkens-teaching/dhgrad2019/blob/master/exercises/ps4/PS4%20Entities.ipynb).
 
 **Week 14 (4/16): Supervised learning**
 
