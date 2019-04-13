@@ -164,7 +164,7 @@ No classes these two weeks to accommodate scheduling conflicts. Read Guttag chap
   * Underwood, Ted. ["The Life Cycles of Genres"](http://culturalanalytics.org/2016/05/the-life-cycles-of-genres/).
 * Technical
   * Guttag, chapter 24.
-  * Due: Clustering exercise.
+  * Due: [Clustering demo exercise](https://github.com/wilkens-teaching/dhgrad2019/tree/master/exercises/ps5).
 
 **Week 15 (4/23): TBD**
 
