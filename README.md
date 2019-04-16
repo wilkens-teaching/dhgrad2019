@@ -179,4 +179,4 @@ No classes these two weeks to accommodate scheduling conflicts. Read Guttag chap
 
 **Week 17**
 
-Final project due by 5:00pm on Friday, 5/10.
+[Final project](exercises/project/Project.md) due by 5:00pm on Friday, 5/10.
