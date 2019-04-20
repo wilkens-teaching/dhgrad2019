@@ -168,10 +168,11 @@ No classes these two weeks to accommodate scheduling conflicts. Read Guttag chap
 
 **Week 15 (4/23): TBD**
 
-* Readings to be determined by class interests and field developments.
+* Read
+  * English, James F. ["Now, Not Now: Counting Time in Contemporary Fiction Studies."](https://doi.org/10.1215/00267929-3570667) 
 * Project work.
 * Technical
-  * Due: Classification exercise.
+  * Due: [Classification demo exercise](https://github.com/wilkens-teaching/dhgrad2019/blob/master/exercises/ps6/Classification%20demo.ipynb).
 
 **Week 16 (4/30)**
 
